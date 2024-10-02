@@ -1,4 +1,70 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.872437,
+                    45.707694
+                ]
+            },
+            "properties": {
+                "name": "Venissieux Nord"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.876104,
+                    45.698417
+                ]
+            },
+            "properties": {
+                "name": "Minguettes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.868489,
+                    45.687987
+                ]
+            },
+            "properties": {
+                "name": "Venissieux Sud-Ouest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.898883,
+                    45.727377
+                ]
+            },
+            "properties": {
+                "name": "Bron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.883546,
+                    45.78324
+                ]
+            },
+            "properties": {
+                "name": "Doua"
+            }
+        }
+    ]
 }
