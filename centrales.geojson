@@ -65,6 +65,19 @@
             "properties": {
                 "name": "Doua"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.936783,
+                    45.696712
+                ]
+            },
+            "properties": {
+                "name": "St-Priest"
+            }
         }
     ]
 }
