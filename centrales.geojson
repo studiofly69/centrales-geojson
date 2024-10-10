@@ -11,7 +11,8 @@
                 ]
             },
             "properties": {
-                "name": "Venissieux Nord"
+                "name": "Venissieux Nord",
+                "puissance": "100 MW"
             }
         },
         {
@@ -24,7 +25,8 @@
                 ]
             },
             "properties": {
-                "name": "Minguettes"
+                "name": "Minguettes",
+                "puissance": "200 MW"
             }
         },
         {
@@ -37,7 +39,8 @@
                 ]
             },
             "properties": {
-                "name": "Venissieux Sud-Ouest"
+                "name": "Venissieux Sud-Ouest",
+                "puissance": "100 MW"
             }
         },
         {
@@ -50,7 +53,8 @@
                 ]
             },
             "properties": {
-                "name": "Bron"
+                "name": "Bron",
+                "puissance": "258 MW"
             }
         },
         {
@@ -63,7 +67,8 @@
                 ]
             },
             "properties": {
-                "name": "Doua"
+                "name": "Doua",
+                "puissance": "90 MW"
             }
         },
         {
@@ -76,7 +81,8 @@
                 ]
             },
             "properties": {
-                "name": "St-Priest"
+                "name": "St-Priest",
+                "puissance": "320 MW"
             }
         }
     ]
